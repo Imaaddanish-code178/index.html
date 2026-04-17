@@ -201,15 +201,15 @@ and learning how technology can solve real-world problems.
 
 <div class="contact-buttons">
 
-<a href="mailto:your@email.com">
+<a href="mailto:khaleekahmand@gmail.com">
 <button>Email Me</button>
 </a>
 
-<a href="https://github.com/yourusername" target="_blank">
+<a href="https://github.com/imaaddanish-code178" target="_blank">
 <button>GitHub</button>
 </a>
 
-<a href="https://wa.me/919999999999" target="_blank">
+<a href="https://wa.me/9997554431" target="_blank">
 <button>WhatsApp</button>
 </a>
 
