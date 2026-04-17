@@ -209,7 +209,7 @@ and learning how technology can solve real-world problems.
 <button>GitHub</button>
 </a>
 
-<a href="https://wa.me/91 9997554431" target="_blank">
+<a href="https://wa.me/919997554431" target="_blank">
 <button>WhatsApp</button>
 </a>
 
