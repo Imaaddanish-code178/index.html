@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
@@ -212,14 +211,13 @@ and learning how technology can solve real-world problems.
 <a href="https://wa.me/919997554431" target="_blank">
 <button>WhatsApp</button>
 </a>
-
-</div>
-
-</section>
+<a href="https://youtube.com/@cryonixvfxofficial?si=uJFGM7p4Zv312uva" target="_blank">
+<buttun>YouTube</buttun>
+</a>
 
 <footer>
 <p>© 2026 Imaad Danish. All Rights Reserved.</p>
 </footer>
 
-</body>
-</html>
+
+
