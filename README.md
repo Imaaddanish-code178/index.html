@@ -104,6 +104,8 @@ margin-top:20px;
 .contact-buttons a{
 text-decoration:none;
 }
+  // Double tap top = Technologia
+  if(e.touches[0].clientY < 100 && tapCount === 2)
 
 .contact-buttons button{
 background:#3b82f6;
