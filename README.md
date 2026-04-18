@@ -119,7 +119,8 @@ footer{text-align:center;padding:25px;background:#020617;color:#94a3b8}
 <div style="display:flex;flex-direction:column;gap:14px;align-items:center;">
 <a href="mailto:khaleekahmand@gmail.com" class="btn" style="background:#22c55e;color:#022c22;">📧 Email</a>
 <a href="https://github.com/imaaddanish-code178" target="_blank" class="btn" style="background:#111827;color:#e5e7eb;">💻 GitHub</a>
-<a href="https://youtube.com/@cryonixvfxofficial?si=AfWvN7qXdPMegrHl" target="_blank" class="btn" style="background:#ef4444;color:white;">▶️ YouTube</a>
+<a href="https://unstop.com/u/techokid19407" target="_blank" class="btn" style="background:#f97316;color:#1f2937;">🏆 Unstop</a>
+<a href="https://youtube.com/@cryonixvfxofficial?si=4ND0FTUI_8UQ1ElL" target="_blank" class="btn" style="background:#ef4444;color:white;">▶️ YouTube</a>
 </div>
 </div>
 </section>
@@ -130,7 +131,6 @@ footer{text-align:center;padding:25px;background:#020617;color:#94a3b8}
 
 <script>
 // (Your JS remains unchanged)
-
 </script>
 
 </body>
