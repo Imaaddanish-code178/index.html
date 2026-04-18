@@ -217,7 +217,7 @@ and learning how technology can solve real-world problems.
 <button>YouTube</button>
 
 <footer>
-<p>© 2026 Imaad Danish. All Rights Reserved.</p>
+<p>© 2026 Imaad Danish. Next Level Portfolio.</p>
 </footer>
 
 </body>
