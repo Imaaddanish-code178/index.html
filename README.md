@@ -220,5 +220,4 @@ and learning how technology can solve real-world problems.
 <p>© 2026 Imaad Danish. Next Level Portfolio.</p>
 </footer>
 
-</body>
-</html>
+
